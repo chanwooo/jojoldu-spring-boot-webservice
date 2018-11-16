@@ -1,0 +1,5 @@
+# jojoldu-spring-boot-webservice
+
+https://jojoldu.tistory.com/250
+
+jojoldu님의 블로그에 나온 spring boot로 webservice 만들기 실습
